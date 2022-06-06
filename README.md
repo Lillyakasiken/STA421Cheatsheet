@@ -1,2 +1,2 @@
 # STA421Cheatsheet
-Fundation of Bayesian Methodology
+UZH FS22 Fundation of Bayesian Methodology
