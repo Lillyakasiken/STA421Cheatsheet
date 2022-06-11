@@ -4,7 +4,7 @@
 
 
 
-## STA421 Fundation of Bayesian Methodology FS22
+## [STA421 Fundation of Bayesian Methodology FS22](STA421_Foundations_of_Bayesian_Methodology/)
 There are 19 pages of cheat sheets that could print on **five double-sided A4 paper**.
  - Chapter 1: Classical vs Bayesian paradigms and conditional probability (2 pages)
  - Chapter 2: Conjugate Bayes, point estimates, and interval estimates (2 pages)
