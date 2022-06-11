@@ -1,5 +1,6 @@
 # UZH Cheatsheet
-### Master Program in Biostatistics 
+
+![Master Program in Biostatistics](1200px-Universität_Zürich_logo.png)
 
 
 
