@@ -18,5 +18,5 @@ To merge them in one PDF file:
 gs -q -sPAPERSIZE=letter -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=BayesianCheatsheet.pdf Chapter1and2.pdf Chapter3.pdf Chapter4and5.pdf Chapter6.pdf
 ```
 
-## STA408 STA408 Statistical Methods in Epidemiology FS22
+## STA408 Statistical Methods in Epidemiology FS22
 **2 double-side A4 pages**
