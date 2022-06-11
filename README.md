@@ -1,4 +1,4 @@
-# UZH Cheatsheet
+# UZH Cheatsheet (Master Program in Biostatistics)
 
 ![Master Program in Biostatistics](uni_logo.png)
 
