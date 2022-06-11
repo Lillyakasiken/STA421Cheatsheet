@@ -24,3 +24,9 @@ gs -q -sPAPERSIZE=letter -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=Bayesi
 
 ## STA408 Statistical Methods in Epidemiology FS22
 **2 double-side A4 pages**
+
+## Computational Statistics (ETHz) FS22
+**1 double-side A4 page**
+
+## STA110 Introduction to probability FS22
+**1 double-side A4 page**
