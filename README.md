@@ -1,5 +1,7 @@
 # UZH Cheatsheet (Master Program in Biostatistics)
 
+Suppose you use the printer at University. It is recommended to select the "super-resolution" option.
+
 ![Master Program in Biostatistics](uni_logo.png)
 
 
