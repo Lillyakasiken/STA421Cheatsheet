@@ -1,5 +1,5 @@
 # UZH Cheatsheet
-Master Program in Biostatistics 
+### Master Program in Biostatistics 
 
 
 ## STA421 Fundation of Bayesian Methodology FS22
