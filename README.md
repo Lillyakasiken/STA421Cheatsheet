@@ -8,9 +8,9 @@ Assuming you have git installed locally, you can check out the entire set of che
 git clone 
 ```
 
-and get updates by running git pull at any later time in the same directory.
+and get updates by running `git pull` at any later time in the same directory.
 
-Alternatively, for a ZIP file of the repository, you can click the (green) 'Code' button (top right of the main panel) and then click 'Download ZIP'.
+Alternatively, for a ZIP file of the repository, you can click the `code` (green) button (top right of the main panel) and then click `Download ZIP`.
 
 ![Master Program in Biostatistics](uni_logo.png)
 
