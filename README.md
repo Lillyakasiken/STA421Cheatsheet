@@ -5,7 +5,7 @@ Supposing you use the printer at University. It is recommended to select the *su
 Assuming you have git installed locally, you can check out the entire set of cheat sheets with the following command (from the command line):
 
 ```
-git clone 
+git clone https://github.com/Lillyakasiken/UZH_Cheatsheet.git
 ```
 
 and get updates by running `git pull` at any later time in the same directory.
@@ -26,7 +26,7 @@ There are 19 pages of cheat sheets that could print on **five double-sided A4 pa
  - Chapter 6: Bayesian meta-analysis and empirical Bayes (3 pages)
 
 
-To merge them in one PDF file:
+To merge them in one PDF file (from the command line):
 
 ```
 gs -q -sPAPERSIZE=letter -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=BayesianCheatsheet.pdf Chapter1and2.pdf Chapter3.pdf Chapter4and5.pdf Chapter6.pdf
