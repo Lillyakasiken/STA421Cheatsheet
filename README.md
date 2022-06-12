@@ -48,6 +48,12 @@ gs -q -sPAPERSIZE=letter -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=Bayesi
 - Missing data and Imputation
 - Tree based models as alternative in classification and regression tasks
 
+To merge them in one PDF file (from the command line):
+
+```
+gs -q -sPAPERSIZE=letter -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=EpiCheatsheet.pdf cs1.pdf cs2.pdf cs3.pdf cs4.pdf
+```
+
 ## Computational Statistics (ETHz) FS22
 **1 double-side A4 page**
 
