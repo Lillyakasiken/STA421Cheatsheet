@@ -32,8 +32,21 @@ To merge them in one PDF file (from the command line):
 gs -q -sPAPERSIZE=letter -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=BayesianCheatsheet.pdf Chapter1and2.pdf Chapter3.pdf Chapter4and5.pdf Chapter6.pdf
 ```
 
-## STA408 Statistical Methods in Epidemiology FS22
+## [STA408 Statistical Methods in Epidemiology FS22](STA408_Statistical_Methods_in_Epidemiology/)
 **2 double-side A4 pages**
+- Challenges in observational studies, measures for disease-exposure association such as RR (risk ratio) or OR (odds ratio) (page 1)
+- CI for RR (risk ratio) and OR (odds ratio), tests for cross-tables, confounding and interaction (page 1)
+- Crude and adjusted OR: Mantel-Haenszel or regression approach (page 1 and 2)
+- Case-Control studies: Modelling OR by logistic regression
+- Modeling and testing for trend & interaction in logistic regression. Matched case-control studies: conditional logistic regression.
+- Epidemiological studies in practice and their pros and cons in design (guest: S. Rohrmann)
+- Cohort studies: crude and adjusted rate ratios, Mantel-Haenszel or Poisson regression approach
+- Matched cohort studies: conditional Poisson regression, Propensity score matching
+- Meta-Analysis
+- Causal inference with graphical models
+- Misclassification, measurement error
+- Missing data and Imputation
+- Tree based models as alternative in classification and regression tasks
 
 ## Computational Statistics (ETHz) FS22
 **1 double-side A4 page**
