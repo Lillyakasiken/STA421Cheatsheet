@@ -1,6 +1,6 @@
 # UZH Cheatsheet (Master Program in Biostatistics)
 
-Supposing you use the printer at University. It is recommended to select the *super-resolution* option in a printer.
+Supposing you use the printer at University. It is recommended to select the `super-resolution` option in a printer.
 
 Assuming you have git installed locally, you can check out the entire set of cheat sheets with the following command (from the command line):
 
