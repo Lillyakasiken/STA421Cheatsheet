@@ -37,9 +37,9 @@ gs -q -sPAPERSIZE=letter -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=Bayesi
 - Challenges in observational studies, measures for disease-exposure association such as RR (risk ratio) or OR (odds ratio) **(page 1)**
 - CI for RR (risk ratio) and OR (odds ratio), tests for cross-tables, confounding and interaction **(page 1)**
 - Crude and adjusted OR: Mantel-Haenszel or regression approach **(page 1 and 2)**
-- Case-Control studies: Modelling OR by logistic regression
-- Modeling and testing for trend & interaction in logistic regression. Matched case-control studies: conditional logistic regression.
-- Epidemiological studies in practice and their pros and cons in design (guest: S. Rohrmann)
+- Case-Control studies: Modelling OR by logistic regression **(page 2)**
+- Modeling and testing for trend & interaction in logistic regression. Matched case-control studies: conditional logistic regression. **(page 2 and 3)**
+- Epidemiological studies in practice and their pros and cons in design (guest: S. Rohrmann) **(page 2)**
 - Cohort studies: crude and adjusted rate ratios, Mantel-Haenszel or Poisson regression approach
 - Matched cohort studies: conditional Poisson regression, Propensity score matching
 - Meta-Analysis
