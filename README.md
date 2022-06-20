@@ -40,13 +40,13 @@ gs -q -sPAPERSIZE=letter -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=Bayesi
 - Case-Control studies: Modelling OR by logistic regression **(page 2)**
 - Modeling and testing for trend & interaction in logistic regression. Matched case-control studies: conditional logistic regression. **(page 2 and 3)**
 - Epidemiological studies in practice and their pros and cons in design (guest: S. Rohrmann) **(page 2)**
-- Cohort studies: crude and adjusted rate ratios, Mantel-Haenszel or Poisson regression approach
-- Matched cohort studies: conditional Poisson regression, Propensity score matching
-- Meta-Analysis
-- Causal inference with graphical models
-- Misclassification, measurement error
-- Missing data and Imputation
-- Tree based models as alternative in classification and regression tasks
+- Cohort studies: crude and adjusted rate ratios, Mantel-Haenszel or Poisson regression approach **(page 3)**
+- Matched cohort studies: conditional Poisson regression, Propensity score matching **(page 3)**
+- Meta-Analysis **(page 3)**
+- Causal inference with graphical models **(page 4)**
+- Misclassification, measurement error **(page 4)**
+- Missing data and Imputation **(page 4)**
+- Tree based models as alternative in classification and regression tasks **(page 4)**
 
 To merge them in one PDF file (from the command line):
 
