@@ -57,5 +57,5 @@ gs -q -sPAPERSIZE=letter -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=EpiChe
 ## Computational Statistics (ETHz) FS22
 **1 double-side A4 page**
 
-## [STA110 Introduction to probability FS22](STA 110/)
+## [STA110 Introduction to probability FS22](STA110_Introduction_to_Probability/)
 **1 double-side A4 page**
