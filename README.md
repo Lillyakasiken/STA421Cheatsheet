@@ -59,3 +59,6 @@ gs -q -sPAPERSIZE=letter -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=EpiChe
 
 ## [STA110 Introduction to probability FS22](STA110_Introduction_to_Probability/)
 **1 double-side A4 page**
+
+## [STA402 Likelihood Inference HS22](STA402_Likelihood_Inference/)
+**1 double-side A4 page, handwritten only**
